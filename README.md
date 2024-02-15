@@ -1,3 +1,9 @@
+# IPL Data Analysis
+
+Explore the exciting world of Indian Premier League (IPL) through this data analysis project! Discover which teams shine the brightest, who the star players are, and the strategies behind winning tosses. Dive into venue-specific strengths, learn about nail-biting margins of victory, and understand the role of umpires in this cricket extravaganza. It's a fascinating journey through IPL's rich history from 2008 to 2022!
+
+👉 [Explore on Kaggle](https://www.kaggle.com/code/hashmib/cricket-analytics-masterclass-ipl-edition-2023) and run the code yourself!
+
 # Conclusion
 
 ## Team Performance:
